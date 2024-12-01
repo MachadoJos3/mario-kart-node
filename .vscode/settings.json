@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80,120],
+    "editor.fontLigatures": true,
+    "explorer.compactFolders": false,
+    "apc.stylesheet": {
+        ".title-label > h2": "display-none",
+    }
+}
